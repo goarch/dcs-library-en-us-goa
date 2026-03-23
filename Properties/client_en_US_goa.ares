@@ -33,6 +33,12 @@ cl.bishop2.fimi.text =
 cl.double_commemoration.bishop1and2 = 
 cl.fimi.bishop1 = 
 
+//Ordination parts in eu.ordination
+cl.ordinand.deacon.acc.text = "(name)"
+cl.ordinand.deacon.gen.text = "(name)"
+cl.ordinand.priest.acc.text = "(name)"
+cl.ordinand.priest.gen.text = "(name)"
+
 //Institutional petition
 cl.institution.pet08.incipit = "For…"
 cl.institution.pet08.text = "(Use for institutions, e.g. Holy Cross.)"

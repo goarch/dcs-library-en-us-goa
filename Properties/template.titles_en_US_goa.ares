@@ -183,9 +183,13 @@ li.html.tab = "LITURGY OF ST. JOHN CHRYSOSTOM"
 li.pdf.header = "Divine Liturgy of St. John Chrysostom"
 li.pdf.cover = "The Divine Liturgy of St. John Chrysostom"
 
-li1.html.tab = "LITURGY OF ST. BASIL"
-li1.pdf.header = "Divine Liturgy of St. Basil"
-li1.pdf.cover = "The Divine Liturgy of St. Basil the Great"
+lib.html.tab = "DIVINE LITURGY OF ST. BASIL"
+lib.pdf.header = "Divine Liturgy of St. Basil"
+lib.pdf.cover = "The Divine Liturgy of St. Basil the Great"
+
+li1.html.tab = "DIVINE LITURGY"
+li1.pdf.header = "Divine Liturgy"
+li1.pdf.cover = "The Divine Liturgy"
 
 li2.html.tab = "LITURGY - VARIABLES / ANTIPHONS"
 li2.pdf.header = "Divine Liturgy - Variables / Antiphons"
