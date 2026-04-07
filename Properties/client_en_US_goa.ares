@@ -28,7 +28,7 @@ cl.bishop2.name_c = "(name),"
 cl.bishop2.name_co = "name):"
 cl.bishop2.name_sc = "(name);"
 cl.bishop2.name_p = "(name)."
-cl.bishop2.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
+cl.bishop2.fimi.text = ""
 
 //To activate these settings, you must set them in client_en_US_goa
 cl.double_commemoration.bishop1and2 = 
@@ -39,6 +39,12 @@ cl.ordinand.deacon.acc.text = "(name)"
 cl.ordinand.deacon.gen.text = "(name)"
 cl.ordinand.priest.acc.text = "(name)"
 cl.ordinand.priest.gen.text = "(name)"
+
+cl.conVE.SticBoth.churchname.text = "(\"of\" short name of church or saint and comma)"
+cl.consecration.name = "(full name of church or saint and comma)"
+cl.consecration.prayer1 = "(full name of church or saint and period)"
+cl.consecration.greatlitany.finalpetition.name = "(\"and\" short name of saint and comma)"
+cl.relic_saints.text = "(full name of each saint and comma)"
 
 //Institutional petition
 cl.institution.pet08.incipit = "For…"
@@ -59,11 +65,6 @@ cl.Kontakion1.title = "(Kontakion for the Parish Church)"
 cl.Kontakion1.mode = 
 cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Kontakion for the Parish Church)"
-
-cl.conVE.SticBoth.churchname.text = "of (name of the church),"
-cl.consecration.name = "(name of the church);"
-cl.consecration.prayer1 = "(name of the church)."
-cl.consecration.greatlitany.finalpetition.name = "(and saint of church)"
 
 cl.localpatronsaint2.supplication = "(of the chapel);"
 cl.localpatronsaint2.dismissal = "(of the chapel);"
