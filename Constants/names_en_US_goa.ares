@@ -86,6 +86,11 @@ name.holytrinity.conVE.SticBoth.churchname.text = "of the Holy Trinity,"
 name.holytrinity.consecration.name = "the Holy Trinity,"
 name.holytrinity.consecration.prayer1 = "the Holy Trinity."
 
+name.holywisdom.localchurch.title = "Of Holy Wisdom."
+name.holywisdom.conVE.SticBoth.churchname.text = "of Holy Wisdom,"
+name.holywisdom.consecration.name = "Holy Wisdom,"
+name.holywisdom.consecration.prayer1 = "Holy Wisdom."
+
 name.iakovos.localsaint1.supplication = "the holy Apostle Iakovos the Brother of the Lord,"
 name.iakovos.localsaint1.dismissal = "of the holy Apostle Iakovos the Brother of the Lord,"
 name.iakovos.localchurch.title = "For St. Iakovos."
