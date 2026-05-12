@@ -9,12 +9,16 @@ cl.email =
 cl.website = 
 
 cl.bishop0.title = ""
-cl.bishop0.rank = "our Archbishop" //the superior of the local hierarch
+cl.bishop0.rank = "our Archbishop and Patriarch" //the superior of the local hierarch
 cl.bishop0.name_c = "(name)," //comma
 cl.bishop0.name_co = "(name):"
 cl.bishop0.name_sc = "(name);"
 cl.bishop0.name_p = "(name)." //period
 cl.bishop0.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
+cl.bishop0.name.petitionC = "our Archbishop and Patriarch (name),"
+cl.bishop0.name.petitionP = "our Archbishop and Patriarch (name)."
+cl.bishop0.name.entrance = "Our Archbishop and Patriarch (name),"
+cl.bishop0.name.commemoration = "our Archbishop and Patriarch (name);"
 
 cl.bishop1.title = ""
 cl.bishop1.rank = "our Archbishop"
@@ -24,6 +28,10 @@ cl.bishop1.name_sc = "(name);"
 cl.bishop1.name_p = "(name)." //period
 cl.bishop1.fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
 cl.bishop1.away_fimi.text = "(The text of the appropriate episcopal acclamation goes here.)"
+cl.bishop1.name.petitionC = "our Archbishop (name),"
+cl.bishop1.name.petitionP = "our Archbishop (name)."
+cl.bishop1.name.entrance = "Our Archbishop (name),"
+cl.bishop1.name.commemoration = "our Archbishop (name);"
 
 cl.bishop2.title = ""
 cl.bishop2.rank = "and our [rank]" // for double commemoration or guest
@@ -32,6 +40,9 @@ cl.bishop2.name_co = "name):"
 cl.bishop2.name_sc = "(name);"
 cl.bishop2.name_p = "(name)."
 cl.bishop2.fimi.text = ""
+cl.bishop2.name.petitionC = "and our Bishop (name),"
+cl.bishop2.name.petitionP = "and our Bishop (name)."
+cl.bishop2.name.commemoration = "and our Bishop (name);"
 
 //To activate these settings, you must set them in client_en_US_goa
 cl.double_commemoration.bishop1and2 = 
