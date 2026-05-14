@@ -49,6 +49,7 @@ cl.double_commemoration.bishop1and2 =
 cl.fimi.bishop1 = 
 
 //Ordination parts in eu.ordination
+cl.ordinand.subdeacon.acc.text = "(name)"
 cl.ordinand.deacon.acc.text = "(name)"
 cl.ordinand.deacon.gen.text = "(name)"
 cl.ordinand.priest.acc.text = "(name)"

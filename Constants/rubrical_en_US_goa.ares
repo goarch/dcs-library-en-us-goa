@@ -74,11 +74,11 @@ ru.IfLityNotDoneAtVespers =
 
 ru.InALowVoice = "(in a low voice)"
 
-ru.InALowVoiceFacingAltar = "(in a low voice and facint the altar)"
+ru.InALowVoiceFacingAltar = "(in a low voice and facing the altar)"
 
 ru.Inaudibly = 
 
-ru.InPlaceOfRightChoir = 
+ru.InPlaceOfRightChoir = "(in place of the Right Choir)"
 
 ru.Intoned = 
 
@@ -197,3 +197,6 @@ ru.transfer.service.date.jun04 =
 ru.transfer.service.date.jun24 = 
 
 ru.unavailable.octoechos = 
+
+//for service builder
+ru.sb.InPlaceOfRightChoir = "" //(in place of the Right Choir)
