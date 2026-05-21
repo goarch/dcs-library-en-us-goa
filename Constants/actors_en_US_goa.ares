@@ -80,9 +80,9 @@ ac.LC.Archbishop = "Archbishop"
 ac.LC.Hierarch = "Hierarch"
 ac.LC.Deacon = "Deacon"
 
-ac.sb.BlCh = "" //by default blank and updated to “Choir” as needed, e.g. Katavasias
+ac.sb.BlCh = " " //by default blank and updated to “Choir” as needed, e.g. Katavasias
 ac.sb.DeBl = "DEACON" //by default "Deacon" and updated to blank as needed
-ac.sb.BlHi = "" //by default blank and updated to “Hierarch” as needed, e.g. Katavasias
+ac.sb.BlHi = " " //by default blank and updated to “Hierarch” as needed, e.g. Katavasias
 
 ac.sb.ChClHi = "CHOIR" //be default choir and updated to clergy or hierarch, e.g. small entrance
 ac.sb.ChHi = "" //(choir or hierarch)
