@@ -42,7 +42,7 @@ cl.bishop2.name_p = "(name)."
 cl.bishop2.fimi.text = ""
 cl.bishop2.name.petitionC = "and our Bishop (name),"
 cl.bishop2.name.petitionP = "and our Bishop (name)."
-cl.bishop2.name.commemoration = "and our Bishop (name);"
+cl.bishop2.name.commemoration = "our Bishop (name);"
 
 //To activate these settings, you must set them in client_en_US_goa
 cl.double_commemoration.bishop1and2 = 
