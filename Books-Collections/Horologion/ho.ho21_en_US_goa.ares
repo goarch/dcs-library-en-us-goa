@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = ho.ho21_en_US_goa
 
 hoPrayer.Key000.title = 
-R03 = 
+R03.rubric = 
 hoPrayer.Key001.title = 
 hoPrayer.Key001.incipit = //oc.m2.d2_en_US_goa.ocMA.Aposticha2.incipit
 hoPrayer.Key001.text = //oc.m2.d2_en_US_goa.ocMA.Aposticha2.text
@@ -247,7 +247,7 @@ hoPrayer.Key201_3.text = "straightway give praise and great thanks,"
 hoPrayer.Key201_4.text = "and fervently from your soul say to God,"
 hoPrayer.Key201_5.text = "Glory to You, O God; glory to You, O God; glory to You, O God."
 
-R04 = "And immediately, the following prayers of thanksgiving:"
+R04.rubric = "And immediately, the following prayers of thanksgiving:"
 
 hoPrayer.Key202.title = "Anonymous"
 hoPrayer.Key202.text = "I thank You, O Lord my God, for You have not rejected me, a sinner, but have deemed me worthy to be a partaker of Your Holy Gifts. I thank You that You deemed me worthy, unworthy as I am, to partake of Your pure and heavenly Gifts. O benevolent Master, who for us both died and arose and who granted us this, Your dread and life-creating sacrament, for the benefit and sanctification of our souls and bodies: Grant that it may be to me for the healing of both soul and body, for the averting of everything hostile, for the enlightenment of the eyes of my heart, for the peace of the powers of my soul, for faith unashamed, for love unfeigned, for the fullness of wisdom, for the observance of Your commandments, for an increase of Your divine grace, and for abiding in Your kingdom; that being kept by it in Your holiness I may ever be mindful of Your grace, and no longer live for myself but for You, our Master and benefactor. And thus, when from this life I have passed in the hope of life eternal, may I attain to everlasting rest, where the sound of those who celebrate is unceasing, and unending is the delight of those who behold the ineffable beauty of Your Countenance. For You are, indeed, the true object of our desire and the inexpressible gladness of those who love You, O Christ our God, and all creation praises You unto the ages. Amen."
