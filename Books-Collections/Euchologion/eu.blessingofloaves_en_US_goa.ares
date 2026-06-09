@@ -1,0 +1,25 @@
+A_Resource_Whose_Name = eu.blessingofloaves_en_US_goa 
+
+euBOL.title = "BLESSING OF THE LOAVES"
+
+euBOL.R01.rubric = ""
+euBOL.R02.rubric = "The Priest censes as he sings the first part of the hymn, “O Virgin Theotokos…” up to, “the fruit of your womb.” Then the Choir sings the ending, “for you have borne the Savior of our souls.”"
+
+euBOL.Key1001.title = ""
+euBOL.Key1001.mode = miscellanea_en_US_goa.misc.Mode5
+euBOL.Key1001.incipit = "…"
+euBOL.Key1001.text = ""
+euBOL.Key1001a.text = "O Virgin Theotokos, rejoice, Mary full of grace. The Lord is with you. Blessed are you among women, and blessed is the fruit of your womb…"
+euBOL.Key1001b.text = "…for you bore the Savior of our souls."
+
+
+euBOL.R03.rubric = "The Priest holding and blessing one of the loaves prays aloud:"
+euBOL.hR03.rubric = "The Hierarch holding and blessing one of the loaves prays aloud:"
+
+euBOL.Key1002.title = "BLESSING OF THE LOAVES"
+euBOL.Key1003.text = "Lord, Jesus Christ our God, who in the wilderness blessed the five loaves and from them satisfied five thousand men, we pray You bless these loaves, this wheat, wine, and oil, and multiply them in this city, and throughout Your world; and sanctify Your faithful servants who partake of them."
+
+euBOL.Key1004.text = prayers_en_US_goa.pr.exc28a.text
+
+euBOL.R04.rubric = "The Priest kisses the loaf without lifting it up and sings:"
+euBOL.hR04.rubric = "The Hierarch kisses the loaf without lifting it up and sings:"
