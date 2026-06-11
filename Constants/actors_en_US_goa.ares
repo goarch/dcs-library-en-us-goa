@@ -84,7 +84,7 @@ ac.sb.BlCh = " " //by default blank and updated to “Choir” as needed, e.g. K
 ac.sb.DeBl = "DEACON" //by default "Deacon" and updated to blank as needed
 ac.sb.BlHi = " " //by default blank and updated to “Hierarch” as needed, e.g. Katavasias
 
-ac.sb.ChClHi = "CHOIR" //be default choir and updated to clergy or hierarch, e.g. small entrance
+ac.sb.ChCl = "CHOIR" //be default choir and updated to clergy or hierarch, e.g. small entrance
 ac.sb.ChBl = "" //(choir or blank for hierarch)
 ac.sb.ChHi = "" //(choir or hierarch)
 ac.sb.ClHi = "PRIESTS" //(clergy or hierarch)
