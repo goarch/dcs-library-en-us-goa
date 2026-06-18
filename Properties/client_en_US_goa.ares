@@ -67,6 +67,7 @@ cl.institution.pet08.text = "(Use for institutions, e.g. Holy Cross.)"
 
 cl.localpatronsaint1.supplication = "(local patron saint);"
 cl.localpatronsaint1.dismissal = "(local patron saint);"
+cl.localpatronsaint1.commemoration = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
 
 cl.localchurch.title = ""
