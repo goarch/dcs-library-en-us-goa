@@ -125,3 +125,8 @@ name.savasfathers.relic3.name = "and the holy Fathers who were slaughtered in th
 name.spyridon.localsaint1.supplication = ""
 name.spyridon.localsaint1.dismissal = "of our father among the Saints Spyridon the Wonderworker, Bishop of Trimythous,"
 name.spyridon.localchurch.title = "For St. Spyridon."
+
+name.transfiguration.localchurch.title = "For the Holy Transfiguration."
+name.transfiguration.conVE.SticBoth.churchname.text = "of Your holy Transfiguration,"
+name.transfiguration.consecration.name = "of the Holy Transfiguration,"
+name.transfiguration.consecration.prayer1 = "of the Holy Transfiguration,"
