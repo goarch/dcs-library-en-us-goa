@@ -86,6 +86,7 @@ ac.sb.ClHi = "CLERGY" //(clergy or hierarch)
 ac.sb.DeBl = "DEACON" //by default "Deacon" and updated to blank as needed
 ac.sb.DePe = "DEACON" //deacon or people
 ac.sb.DePr= "DEACON" //by default Deacon and updated to Priest as needed
+ac.sb.PrBl = "PRIEST" //Priest or blank when no deacon
 ac.sb.PrCl = "PRIEST" //by default Priest and updated to Clergy as needed
 ac.sb.PrHi = "PRIEST" //by default Priest and updated to Hierarch as needed
 ac.sb.ReHi = "READER" //by default Reader and updated to Hierarch as needed
