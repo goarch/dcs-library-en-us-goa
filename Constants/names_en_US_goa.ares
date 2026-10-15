@@ -29,6 +29,14 @@ name.catherine.localsaint1.supplication = "the holy Great-martyr and all-wise Ca
 name.catherine.localsaint1.dismissal = "of the holy Great-martyr and all-wise Catherine,"
 name.catherine.localchurch.title = "For St. Catherine."
 
+name.chrysostom.localsaint1.supplication = ""
+name.chrysostom.localsaint1.dismissal = "of our father among the saints John Chrysostom, Archbishop of Constantinople,"
+name.chrysostom.localchurch.title = "For St. John Chrysosotm."
+name.chrysostom.conVE.SticBoth.churchname.text = "of St. John Chrysostom,"
+name.chrysostom.consecration.name = "our father among the saints John Chrysostom, Archbishop of Constantinople,"
+name.chrysostom.consecration.prayer1 = "our father among the saints John Chrysostom, Archbishop of Constantinople."
+name.chrysostom.consecration.greatlitany.finalpetition.name = "and St. John Chrysostom,"
+
 name.constantine.localsaint1.supplication = "the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles,"
 name.constantine.localsaint1.dismissal = "of the holy, glorious, great, God-crowned Sovereigns Constantine and Helen, the Equals to the Apostles,"
 name.constantine.localchurch.title = "For St. Constantine."
