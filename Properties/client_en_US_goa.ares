@@ -70,7 +70,7 @@ cl.localpatronsaint1.dismissal = "(local patron saint);"
 cl.localpatronsaint1.commemoration = "(local patron saint);"
 cl.localpatronsaint1.greatcompline = "(local patron saint), intercede for us sinners."
 
-cl.localchurch.title = "For the Parish Church."
+cl.localchurch.title = ""
 
 cl.Apolytikion1.title = "title"
 cl.Apolytikion1.mode = " mode"
